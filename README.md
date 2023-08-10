@@ -1,5 +1,5 @@
 # WeatherApp
-#### Technogies and Tools
+#### Technologies and Tools
 * Angular
 * Rapid API
 * Interpolation
